@@ -79,7 +79,7 @@ Answer the following question: How well does the logistic regression model predi
 ## Write a Credit Risk Analysis Report (20 points)
 To receive all points, you must:
 
-## Provide an overview that explains the purpose of this analysis. (5 points)
+Provide an overview that explains the purpose of this analysis. (5 points)
 
 Using a bulleted list, describe the accuracy, precision, and recall scores of the machine learning model. (5 points)
 
